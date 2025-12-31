@@ -1,5 +1,4 @@
-# 🏅 Olympic Data Analysis & Dashboard
-**(SQL + Power BI Project)**
+# 🏅 Olympic Data Analysis | SQL & Power BI Dashboard
 
 ---
 
@@ -8,7 +7,7 @@
 This project analyzes **historical Olympic Games data** using **SQL** for data extraction and analysis, and **Power BI** for building an interactive dashboard.
 
 The goal is to uncover **insights about medals, athletes, countries, sports, and Olympic trends over time**.
-This is an **end-to-end data analytics project**, covering data cleaning, querying, analysis, and visualization.
+This is an end-to-end data analytics project, encompassing data cleaning, querying, analysis, and visualization.
 
 ---
 
